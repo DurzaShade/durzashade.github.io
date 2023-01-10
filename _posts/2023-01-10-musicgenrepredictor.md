@@ -96,7 +96,7 @@ The authors have used two variations of this, namely, ResNet34 and ResNet50.
 Below are the results of our implementation of the paper.
 
 
-**AlexNet
+**AlexNet**
 
 ![image](https://user-images.githubusercontent.com/7345512/211477717-9bd922d6-2bd4-4a0e-8d45-0ab2cadea3a7.png) 
 ![image](https://user-images.githubusercontent.com/7345512/211477579-5f60ed5c-0fef-43d2-9135-67c5ff1cc90d.png) 
@@ -108,7 +108,7 @@ Training Statistics				Validation and Training Loss Curve
 
 Peak accuracy is 79.3970%
 
-**VGG
+**VGG**
 
 ![image](https://user-images.githubusercontent.com/7345512/211477792-d87fb760-5515-4bc1-96ab-f6e0fb44cdbe.png) 
 ![image](https://user-images.githubusercontent.com/7345512/211477748-8b1ebffb-84ce-4d6f-a0f8-f4f96f334645.png) 
@@ -119,7 +119,7 @@ Training Statistics				Validation and Training Loss Curve
 
 Peak accuracy is 87.4372%
 
-**ResNet50
+**ResNet50**
 
 ![image](https://user-images.githubusercontent.com/7345512/211477877-e129b3a0-5836-49f3-91e1-1ce3e1e49090.png) 
 ![image](https://user-images.githubusercontent.com/7345512/211477818-2fbb0e46-d2e8-4c28-9125-1ef48335509d.png)   
@@ -138,7 +138,7 @@ Peak accuracy is 88.4422%
 
 
 
-**ResNet34
+**ResNet34**
 
 ![image](https://user-images.githubusercontent.com/7345512/211477942-3bd3a844-7e77-4c33-b421-1980c36cd6e1.png)
 ![image](https://user-images.githubusercontent.com/7345512/211477986-f6b86e1a-537e-4daf-be63-3528e24ce295.png) 
@@ -163,7 +163,7 @@ To improve generalization as well as increase accuracy, we used ResNet rs50(refe
 
 
 
-**Resnet rs50
+**Resnet rs50**
 
 
 ![image](https://user-images.githubusercontent.com/7345512/211480233-001c796f-ee34-4197-9132-9639174dee78.png) 
