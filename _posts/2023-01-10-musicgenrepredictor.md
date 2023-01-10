@@ -98,7 +98,9 @@ Below are the results of our implementation of the paper.
 
 **AlexNet
 
-![image](https://user-images.githubusercontent.com/7345512/211477717-9bd922d6-2bd4-4a0e-8d45-0ab2cadea3a7.png) ![image](https://user-images.githubusercontent.com/7345512/211477579-5f60ed5c-0fef-43d2-9135-67c5ff1cc90d.png) ![image](https://user-images.githubusercontent.com/7345512/211477682-4d36cc4b-6d7e-4370-bfb7-62dd527ebe41.png)
+![image](https://user-images.githubusercontent.com/7345512/211477717-9bd922d6-2bd4-4a0e-8d45-0ab2cadea3a7.png) 
+![image](https://user-images.githubusercontent.com/7345512/211477579-5f60ed5c-0fef-43d2-9135-67c5ff1cc90d.png) 
+![image](https://user-images.githubusercontent.com/7345512/211477682-4d36cc4b-6d7e-4370-bfb7-62dd527ebe41.png)
 
 
 
@@ -108,7 +110,9 @@ Peak accuracy is 79.3970%
 
 **VGG
 
-![image](https://user-images.githubusercontent.com/7345512/211477792-d87fb760-5515-4bc1-96ab-f6e0fb44cdbe.png) ![image](https://user-images.githubusercontent.com/7345512/211477748-8b1ebffb-84ce-4d6f-a0f8-f4f96f334645.png) ![image](https://user-images.githubusercontent.com/7345512/211477767-decf7eb4-c14f-4d24-91bf-853d623d472c.png)   
+![image](https://user-images.githubusercontent.com/7345512/211477792-d87fb760-5515-4bc1-96ab-f6e0fb44cdbe.png) 
+![image](https://user-images.githubusercontent.com/7345512/211477748-8b1ebffb-84ce-4d6f-a0f8-f4f96f334645.png) 
+![image](https://user-images.githubusercontent.com/7345512/211477767-decf7eb4-c14f-4d24-91bf-853d623d472c.png)   
 
 
 Training Statistics				Validation and Training Loss Curve       
@@ -117,7 +121,9 @@ Peak accuracy is 87.4372%
 
 **ResNet50
 
-![image](https://user-images.githubusercontent.com/7345512/211477877-e129b3a0-5836-49f3-91e1-1ce3e1e49090.png) ![image](https://user-images.githubusercontent.com/7345512/211477818-2fbb0e46-d2e8-4c28-9125-1ef48335509d.png)   ![image](https://user-images.githubusercontent.com/7345512/211477842-e814abdd-7003-4c45-8edf-a4e2bd4c1e26.png)
+![image](https://user-images.githubusercontent.com/7345512/211477877-e129b3a0-5836-49f3-91e1-1ce3e1e49090.png) 
+![image](https://user-images.githubusercontent.com/7345512/211477818-2fbb0e46-d2e8-4c28-9125-1ef48335509d.png)   
+![image](https://user-images.githubusercontent.com/7345512/211477842-e814abdd-7003-4c45-8edf-a4e2bd4c1e26.png)
 
 
 Training Statistics				Validation and Training Loss Curve       
@@ -134,7 +140,9 @@ Peak accuracy is 88.4422%
 
 **ResNet34
 
-![image](https://user-images.githubusercontent.com/7345512/211477942-3bd3a844-7e77-4c33-b421-1980c36cd6e1.png)![image](https://user-images.githubusercontent.com/7345512/211477986-f6b86e1a-537e-4daf-be63-3528e24ce295.png) ![image](https://user-images.githubusercontent.com/7345512/211477899-21df812e-858a-4469-95a7-ccdd9522f1bc.png)   
+![image](https://user-images.githubusercontent.com/7345512/211477942-3bd3a844-7e77-4c33-b421-1980c36cd6e1.png)
+![image](https://user-images.githubusercontent.com/7345512/211477986-f6b86e1a-537e-4daf-be63-3528e24ce295.png) 
+![image](https://user-images.githubusercontent.com/7345512/211477899-21df812e-858a-4469-95a7-ccdd9522f1bc.png)   
 
 
 
@@ -158,7 +166,8 @@ To improve generalization as well as increase accuracy, we used ResNet rs50(refe
 **Resnet rs50
 
 
-![image](https://user-images.githubusercontent.com/7345512/211480233-001c796f-ee34-4197-9132-9639174dee78.png) ![image](https://user-images.githubusercontent.com/7345512/211480275-2757acd0-e743-4b54-909d-69403b5a1cbd.png)
+![image](https://user-images.githubusercontent.com/7345512/211480233-001c796f-ee34-4197-9132-9639174dee78.png) 
+![image](https://user-images.githubusercontent.com/7345512/211480275-2757acd0-e743-4b54-909d-69403b5a1cbd.png)
 
 
 
@@ -169,7 +178,8 @@ Peak accuracy is 90%
 
 
 
-![image](https://user-images.githubusercontent.com/7345512/211480321-2a2f6896-0146-429a-81fd-7bee8be6e399.png) ![image](https://user-images.githubusercontent.com/7345512/211480375-e11a625e-c21f-49b3-807e-9283de18c755.png)
+![image](https://user-images.githubusercontent.com/7345512/211480321-2a2f6896-0146-429a-81fd-7bee8be6e399.png) 
+![image](https://user-images.githubusercontent.com/7345512/211480375-e11a625e-c21f-49b3-807e-9283de18c755.png)
 
 
 
