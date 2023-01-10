@@ -6,7 +6,7 @@ order: 5
 
 Hi, I'm **Sivaram**, a *3rd year undergraduate student* at *BITS Pilani, Hyderabad Campus*. I am interested in VLSI, semiconductors, AI and security.
 
-I am currently looking for oppturnities to pursue my **undergraduate thesis in VLSI** from July 2023 - December 2023. Please contact me for such opportunities via email.
+I am currently looking for opportunities to pursue my **undergraduate thesis in VLSI/semiconductors** from July 2023 - December 2023. Please contact me for such opportunities via email.
 
 **CV**: [Google Drive Link](https://drive.google.com/file/d/1ccDbrvVayTxolubmMm2gH4zC79Y_cm4X/view?usp=sharing)
 
