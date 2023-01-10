@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music Genre Predictor"
-date: 2023-01-10 12:24 -0000
+date: 2023-01-10 17:20 +0530
 categories: deep learning
 ---
 # Music Genre Predictor
