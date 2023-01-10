@@ -8,7 +8,7 @@ Hi, I'm **Sivaram**, a *3rd year undergraduate student* at *BITS Pilani, Hyderab
 
 I am currently looking for oppturnities to pursue my **undergraduate thesis in VLSI** from July 2023 - December 2023. Please contact me for such opportunities via email.
 
-**CV**: [Google Drive Link](https://drive.google.com/file/d/14ikk7ivlUpPhUjeZPCQZaHOty1IbzrOQ/view)
+**CV**: [Google Drive Link](https://drive.google.com/file/d/1ccDbrvVayTxolubmMm2gH4zC79Y_cm4X/view?usp=sharing)
 
 
 Extended CV (Web Version):  
