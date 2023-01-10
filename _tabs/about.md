@@ -11,7 +11,7 @@ I am currently looking for opportunities to pursue my **undergraduate thesis in 
 **CV**: [Google Drive Link](https://drive.google.com/file/d/1ccDbrvVayTxolubmMm2gH4zC79Y_cm4X/view?usp=sharing)
 
 
-Extended CV (Web Version):  
+[Extended CV (Web Version)](/assets/CV.html)
 
 
 **Personal Email**: sivaram.padmasola@gmail.com \\
