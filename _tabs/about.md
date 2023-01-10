@@ -15,6 +15,6 @@ Extended CV (Web Version):
 
 
 **Personal Email**: sivaram.padmasola@gmail.com \\
-**Institue Email**: f20200387@hyderabad.bits-pilani.ac.in \\
+**Institute Email**: f20200387@hyderabad.bits-pilani.ac.in \\
 **Web**: https://durzashade.github.io \\
 **Phone**: +91-9701766474
