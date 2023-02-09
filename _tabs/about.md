@@ -10,7 +10,6 @@ I am currently looking for opportunities to pursue my **undergraduate thesis in 
 
 **CV**: [pdf](/assets/CV.pdf)
 
-
 **Personal Email**: sivaram.padmasola@gmail.com \\
 **Institute Email**: f20200387@hyderabad.bits-pilani.ac.in \\
 **Web**: https://durzashade.github.io \\
